@@ -1,0 +1,689 @@
+
+
+########## SLIDE 1 ##########
+<sp Shape 0> rect @826,0 454x720 fill#312552
+<sp Shape 1> ellipse @893,110 499x499 fill#2A1A4E line#2A1A4E
+<sp Shape 2> ellipse @984,202 317x317 fill#201243 line#201243
+<sp Text 3> rect @67,53 384x48
+   • [30pt B #FFFFFF]RadX[17pt #B9AFD0] inc.
+<sp Text 4> rect @67,259 710x67
+   • [34pt #FFFFFF]Illustrative Acquisition Proposal
+<sp Text 5> rect @67,360 710x62
+   • [30pt B #FFFFFF]Prepared for [Practice Name]
+<sp Text 6> rect @67,432 710x34
+   • [15pt #B9AFD0]August 2026
+<sp Shape 7> rect @67,552 710x1 fill#4E4270
+<sp Text 8> rect @67,571 221x27
+   • [11pt B #FFFFFF]20+ centers in six states
+<sp Text 9> rect @302,571 91x27
+   • [10.5pt #B9AFD0]Florida
+<sp Text 10> rect @391,571 91x27
+   • [10.5pt #6585C7]Georgia
+<sp Text 11> rect @479,571 91x27
+   • [10.5pt #B9AFD0]Tennessee
+<sp Text 12> rect @567,571 91x27
+   • [10.5pt #6585C7]Alabama
+<sp Text 13> rect @656,571 91x27
+   • [10.5pt #D9A93C]Michigan
+<sp Text 14> rect @744,571 91x27
+   • [10.5pt #9C8FB8]Maryland
+<sp Text 15> rect @67,610 480x24
+   • [9pt #8E82AC]Confidential: not for further distribution
+<sp Text 16> rect @67,648 710x38
+   • [8pt #C9707A]Presentation Does Not Constitute a Binding Offer - Figures Subject to Confirmatory Due Diligence
+RELS: rId2->../notesSlides/notesSlide1.xml, rId1->../slideLayouts/slideLayout1.xml
+
+########## SLIDE 2 ##########
+<sp Text 0> rect @1069,36 144x29
+   • r| [15pt B #201243]RadX
+<sp Text 1> rect @67,36 979x48
+   • [27pt B #201243]Disclaimer
+<sp Shape 2> rect @67,96 1146x2 fill#201243
+<sp Text 3> rect @67,130 1146x499
+   • [11.5pt #3B3350]This presentation (the "Presentation") has been prepared by RadX, Inc. ("RadX") solely for the benefit of [Practice Name] (the "Company") for discussion purposes. The information contained herein is confidential, is being provided to the Company on a strictly limited basis and may not be reproduced or disseminated in whole or in part without the prior written consent of RadX.
+   • [11.5pt #3B3350]This Presentation does not constitute and should not be relied upon as an offer to buy any securities. Any such offer, if made, will be made only pursuant to definitive legal documentation, subject to the terms and conditions contained therein, and in compliance with all applicable laws and regulations.
+   • [11.5pt #3B3350]The information contained herein is preliminary in nature and is subject to change, completion and verification. All financial figures and valuations included in this Presentation are provided for illustrative purposes only, are based on certain assumptions that may change, and remain subject to confirmatory due diligence and further negotiation. RadX makes no representation or warranty, express or implied, as to the accuracy or completeness of the information contained herein and shall have no liability relating to or resulting from the use of this Presentation or any errors or omissions herein.
+   • [11.5pt #3B3350]Nothing contained herein constitutes legal, tax, accounting or investment advice. Recipients of this Presentation should make their own independent evaluation of the information and consult with their own professional advisors as they deem appropriate.
+   • [11.5pt #3B3350]By accepting this Presentation, the Company acknowledges and agrees to be bound by the foregoing limitations.
+<sp Text 4> rect @67,672 384x24
+   • [9pt #837D94]RadX inc.  ·  Confidential
+<sp Text 5> rect @442,672 691x24
+   • ctr| [9pt #B03A3A]Presentation Does Not Constitute a Binding Offer - Figures Subject to Confirmatory Due Diligence
+<sp Text 6> rect @1155,672 58x24
+   • r| [10pt B #201243]2
+RELS: rId2->../notesSlides/notesSlide2.xml, rId1->../slideLayouts/slideLayout1.xml
+
+########## SLIDE 3 ##########
+<sp Text 0> rect @1069,36 144x29
+   • r| [15pt B #201243]RadX
+<sp Text 1> rect @67,36 979x48
+   • [27pt B #201243]Why [27pt B #201243]RadX[27pt B #201243]?
+<sp Text 2> rect @67,88 1104x31
+   • [13pt #837D94]A radiologist-led platform built to be the right home for an independent practice
+<sp Shape 3> rect @67,127 1146x2 fill#201243
+<sp Shape 4> roundRect @67,158 554x206 fill#F3F6FC line#E3E0EA
+<sp Shape 5> ellipse @96,187 50x50 fill#201243 line#201243
+<sp Text 6> rect @96,195 50x35
+   • ctr| [12pt B #FFFFFF]01
+<sp Text 7> rect @163,189 429x40
+   • [15pt B #201243]A Radiologist Leading Radiologists
+<sp Text 8> rect @163,237 429x106
+   • [11.5pt #3B3350]RadX[11.5pt #3B3350] was founded and is led by Dr. Chintan Desai, MD, a practicing radiologist rather than a financial sponsor
+   • [11.5pt #3B3350]Clinical decisions are made by people who have read the studies, managed the schedule and built the referral relationships themselves
+<sp Shape 9> roundRect @659,158 554x206 fill#F3F6FC line#E3E0EA
+<sp Shape 10> ellipse @688,187 50x50 fill#201243 line#201243
+<sp Text 11> rect @688,195 50x35
+   • ctr| [12pt B #FFFFFF]02
+<sp Text 12> rect @755,189 429x40
+   • [15pt B #201243]Your Practice Stays Your Practice
+<sp Text 13> rect @755,237 429x106
+   • [11.5pt #3B3350]We preserve local clinical staff, physician relationships and referral networks
+   • [11.5pt #3B3350]Integration focuses the back office (billing, scheduling, credentialing), not the medicine or the people your referrers know
+<sp Shape 14> roundRect @67,398 554x206 fill#F3F6FC line#E3E0EA
+<sp Shape 15> ellipse @96,427 50x50 fill#201243 line#201243
+<sp Text 16> rect @96,435 50x35
+   • ctr| [12pt B #FFFFFF]03
+<sp Text 17> rect @163,429 429x40
+   • [15pt B #201243]A Proven Operating Playbook
+<sp Text 18> rect @163,477 429x106
+   • [11.5pt #3B3350]RadX has grown from 7 to 20+ centers across six states through a repeatable five-step integration framework
+   • [11.5pt #3B3350]RadX[11.5pt #3B3350] has delivered meaningful EBITDA growth across acquired centers without cutting clinical quality
+<sp Shape 19> roundRect @659,398 554x206 fill#F3F6FC line#E3E0EA
+<sp Shape 20> ellipse @688,427 50x50 fill#201243 line#201243
+<sp Text 21> rect @688,435 50x35
+   • ctr| [12pt B #FFFFFF]04
+<sp Text 22> rect @755,429 429x40
+   • [15pt B #201243]Optionality on How You Exit
+<sp Text 23> rect @755,477 429x106
+   • [11.5pt #3B3350]Take full value at close, or defer a portion and participate in the growth of a larger platform
+   • [11.5pt #3B3350]The structure flexes to what you want your next chapter to look like: full exit, phased transition or continued practice
+<sp Text 24> rect @67,672 384x24
+   • [9pt #837D94]RadX inc.  ·  Confidential
+<sp Text 25> rect @442,672 691x24
+   • ctr| [9pt #B03A3A]Presentation Does Not Constitute a Binding Offer - Figures Subject to Confirmatory Due Diligence
+<sp Text 26> rect @1155,672 58x24
+   • r| [10pt B #201243]3
+RELS: rId2->../notesSlides/notesSlide3.xml, rId1->../slideLayouts/slideLayout1.xml
+
+########## SLIDE 4 ##########
+<sp Text 0> rect @1069,36 144x29
+   • r| [15pt B #201243]RadX
+<sp Text 1> rect @67,36 979x48
+   • [27pt B #201243]Founded and Led by an Experienced Radiologist
+<sp Text 2> rect @67,88 1104x31
+   • [13pt #837D94]Dr. Chintan Desai has built RadX as a practicing radiologist, not an outside investor
+<sp Shape 3> rect @67,127 1146x2 fill#201243
+<sp Shape 4> roundRect @67,158 374x418 fill#201243 line#201243
+<sp Text 7> rect @96,365 317x38
+   • ctr| [19pt B #FFFFFF]Dr. Chintan Desai, MD
+<sp Text 8> rect @96,403 317x29
+   • ctr| [12pt #B9AFD0]Founder & Chief Executive Officer
+<sp Shape 9> rect @182,446 144x1 fill#4E4270
+<sp Text 10> rect @101,466 307x86
+   • ctr| [11.5pt #CFC7DE]Personally led the acquisition and integration
+   • ctr| [11.5pt #CFC7DE]of every center on the platform to date
+<sp Text 11> rect @480,158 733x31
+   • [14pt B #825B90]Clinical Leadership
+<sp Text 12> rect @485,193 728x101
+   • [11.5pt #3B3350]President, Florida Radiological Society
+   • [11.5pt #3B3350]Chief Medical Officer, Rose Radiology Center
+   • [11.5pt #3B3350]Fellowship, Duke University · M.D., University of Miami
+<sp Text 13> rect @480,302 733x31
+   • [14pt B #825B90]Operating & Business Background
+<sp Text 14> rect @485,337 728x101
+   • [11.5pt #3B3350]MBA, Harvard Business School
+   • [11.5pt #3B3350]Hands-on across clinical operations, revenue cycle management, scheduling and multi-state platform management
+   • [11.5pt #3B3350]Founded RadX in 2023 and scaled it from 7 to 20+ centers
+<sp Text 15> rect @480,446 733x31
+   • [14pt B #825B90]Alignment With Sellers
+<sp Text 16> rect @485,481 728x101
+   • [11.5pt #3B3350]Dr. Desai has rolled 100% of his own proceeds into the platform alongside institutional capital
+   • [11.5pt #3B3350]He is invested in the same security as every other equity holder, including sellers who elect to roll
+<sp Text 17> rect @67,672 384x24
+   • [9pt #837D94]RadX inc.  ·  Confidential
+<sp Text 18> rect @442,672 691x24
+   • ctr| [9pt #B03A3A]Presentation Does Not Constitute a Binding Offer - Figures Subject to Confirmatory Due Diligence
+<sp Text 19> rect @1155,672 58x24
+   • r| [10pt B #201243]4
+<pic Picture 22> ellipse @182,197 144x144
+RELS: rId3->../media/image1.jpeg, rId2->../notesSlides/notesSlide4.xml, rId1->../slideLayouts/slideLayout1.xml
+
+########## SLIDE 5 ##########
+<sp Text 0> rect @1069,36 144x29
+   • r| [15pt B #201243]RadX
+<sp Text 1> rect @67,36 979x48
+   • [27pt B #201243]Overview of Proposed Transaction
+<sp Text 2> rect @67,88 1104x31
+   • [13pt #837D94]There are three potential components of your go-forward proceeds under our proposal
+<sp Shape 3> rect @67,127 1146x2 fill#201243
+<sp Shape 4> roundRect @67,265 363x336 fill#FFFFFF line#D7D3DE
+<sp Shape 5> rect @67,265 363x60 fill#201243 line#201243
+<sp Text 6> rect @88,276 324x36
+   • [14.5pt B #FFFFFF]1.  Cash at Close
+<sp Text 7> rect @88,340 324x58
+   • [28pt B #825B90]$30M
+<sp Text 8> rect @93,407 315x178
+   • [11.5pt #3B3350]Paid in full at closing
+   • [11.5pt #3B3350]Funded from committed capital, with no financing contingency
+   • [11.5pt #3B3350]Subject to customary working capital adjustment and escrow
+<sp Shape 9> roundRect @459,265 363x336 fill#FFFFFF line#D7D3DE
+<sp Shape 10> rect @459,265 363x60 fill#201243 line#201243
+<sp Text 11> rect @480,276 324x36
+   • [14.5pt B #FFFFFF]2.  Deferred Consideration
+<sp Text 12> rect @480,340 324x58
+   • [28pt B #825B90]$8M
+<sp Text 13> rect @485,407 315x178
+   • [11.5pt #3B3350]Portion of purchase price deferred and paid post-close
+   • [11.5pt #3B3350]Structured as seller note and/or holdback
+   • [11.5pt #3B3350]Provides certainty of value while bridging to the platform story
+<sp Shape 14> roundRect @850,265 363x336 fill#FFFFFF line#D7D3DE
+<sp Shape 15> rect @850,265 363x60 fill#201243 line#201243
+<sp Text 16> rect @871,276 324x36
+   • [14.5pt B #FFFFFF]3.  Rollover Equity in RadX
+<sp Text 17> rect @871,340 324x58
+   • [28pt B #825B90]$5M
+<sp Text 18> rect @876,407 315x178
+   • [11.5pt #3B3350]Elect to roll a portion of proceeds into platform equity
+   • [11.5pt #3B3350]Same security and [11.5pt #3B3350]same priority as the founder and institutional investors
+   • [11.5pt #3B3350]Participates in the growth and eventual scale of the full platform
+<sp Shape 19> roundRect @67,165 1146x69 fill#F3F6FC line#825B90
+<sp Text 21> rect @67,633 1145x39
+   • [9pt #837D94]Note: All figures illustrative and subject to confirmatory diligence. Mix between cash, deferred consideration and rollover equity is flexible and can be tailored to seller preference.
+<sp Text 22> rect @67,672 384x24
+   • [9pt #837D94]RadX inc.  ·  Confidential
+<sp Text 23> rect @442,672 691x24
+   • ctr| [9pt #B03A3A]Presentation Does Not Constitute a Binding Offer - Figures Subject to Confirmatory Due Diligence
+<sp Text 24> rect @1155,672 58x24
+   • r| [10pt B #201243]5
+<group Group 31>
+  <sp Text 20> rect @210,171 397x57
+     • [17pt B #201243]Total Potential Consideration to the Seller:
+  <sp Text 20> rect @612,173 128x52
+     • ctr| [28pt B #825B90]$43M+
+RELS: rId2->../notesSlides/notesSlide5.xml, rId1->../slideLayouts/slideLayout1.xml
+
+########## SLIDE 6 ##########
+<sp Text 0> rect @1069,36 144x29
+   • r| [15pt B #201243]RadX
+<sp Text 1> rect @67,36 979x48
+   • [27pt B #201243]Illustration of Initial Consideration
+<sp Text 2> rect @67,88 1104x31
+   • [13pt #837D94]Below represents graphical illustration of initial consideration of $43 million at close
+<sp Shape 3> rect @67,127 1146x2 fill#201243
+<sp Text 17> rect @67,633 1145x39
+   • [9pt #837D94]Note: Illustrative only. Holdback / escrow released post-closing subject to customary indemnity and net working capital true-up. Rollover equity issued in the same security as capital invested by the founder and institutional investors.
+<sp Text 18> rect @67,672 384x24
+   • [9pt #837D94]RadX inc.  ·  Confidential
+<sp Text 19> rect @442,672 691x24
+   • ctr| [9pt #B03A3A]Presentation Does Not Constitute a Binding Offer - Figures Subject to Confirmatory Due Diligence
+<sp Text 20> rect @1155,672 58x24
+   • r| [10pt B #201243]6
+<graphicFrame Consideration Chart>  @136,194 1008x340
+   CHART/TABLE rid=rId3
+<sp Text 5> rect @217,406 175x58
+   • ctr| [11pt #1F1142]Cash at Close
+   • ctr| [11pt #1F1142]$30M
+<sp Text 7> rect @220,281 168x42
+   • ctr| [11pt #1F1142]Deferred Cash
+   • ctr| [11pt #1F1142]$8M
+<sp Text 8> rect @208,233 192x36
+   • ctr| [15pt B #1F1142]$38M
+<sp Text 9> rect @179,544 250x34
+   • ctr| [12pt #1F1142]Total Cash
+<sp Text 11> rect @544,201 192x36
+   • ctr| [15pt B #1F1142]$5M
+<sp Text 12> rect @506,544 269x33
+   • ctr| [12pt #1F1142]Seller Rollover Equity
+<sp Text 14> rect @880,201 192x36
+   • ctr| [17pt B #201243]$43M
+<sp Text 15> rect @842,544 269x34
+   • ctr| [12pt #1F1142]Initial Consideration
+<sp Shape 16> rect @160,533 960x1 fill#D7D3DE
+<sp Text 5> rect @553,273 175x58
+   • ctr| [11pt #1F1142]Paid to the Company in the form of the Rollover Equity at Close
+<sp Rectangle 7> rect @844,152 267x434
+<sp Oval 11> ellipse @923,199 105x40
+RELS: rId3->../charts/chart1.xml, rId2->../notesSlides/notesSlide6.xml, rId1->../slideLayouts/slideLayout1.xml
+
+########## SLIDE 7 ##########
+<sp Text 0> rect @1069,36 144x29
+   • r| [15pt B #201243]RadX
+<sp Text 1> rect @67,36 979x48
+   • [27pt B #201243]Overview of the RadX Operating Playbook
+<sp Text 2> rect @67,88 1104x31
+   • [13pt #837D94]What RadX does after close to grow revenue at an acquired center
+<sp Shape 3> rect @67,127 1146x2 fill#201243
+<sp Shape 4> roundRect @67,161 264x168 fill#201243 line#201243
+<sp Text 5> rect @79,169 240x152
+   • l| [15pt B #FFFFFF]Modality Mix
+   • l| [10.5pt #B7C4E8]Shift volume toward higher-value studies on the equipment already in place
+<sp Shape 7> roundRect @361,161 264x168 fill#201243 line#201243
+<sp Shape 16> ellipse @67,376 19x19 fill#825B90 line#825B90
+<sp Text 17> rect @101,371 524x32
+   • [14.5pt B #201243]Better mix and stronger rates lift revenue per scan
+<sp Text 18> rect @101,411 524x200
+   • [11.5pt #3B3350]Study mix shifts toward higher-value modalities on the equipment already in place
+   • [11.5pt #3B3350]Payer terms move onto platform contracted rates, narrowing the gap to RadX blended collections in your market
+   • [11.5pt #3B3350]A largely fixed cost base means most of the incremental revenue per scan converts to EBITDA
+<sp Shape 19> ellipse @655,376 19x19 fill#825B90 line#825B90
+<sp Text 20> rect @689,371 524x32
+   • [14.5pt B #201243]Stronger referrals and easier access add more scans
+<sp Text 21> rect @689,411 524x200
+   • [11.5pt #3B3350]Referral development across both physician and personal-injury channels in your local market
+   • [11.5pt #3B3350]Centralized scheduling and call handling convert more inbound demand into scheduled appointments
+   • [11.5pt #3B3350]Longer operating hours and shorter backlogs add capacity without new capital
+<sp Text 23> rect @67,672 384x24
+   • [9pt #837D94]RadX inc.  ·  Confidential
+<sp Text 24> rect @442,672 691x24
+   • ctr| [9pt #B03A3A]Presentation Does Not Constitute a Binding Offer - Figures Subject to Confirmatory Due Diligence
+<sp Text 25> rect @1155,672 58x24
+   • r| [10pt B #201243]7
+<sp Shape 7> roundRect @655,161 264x168 fill#201243 line#201243
+<sp Shape 7> roundRect @949,161 264x168 fill#201243 line#201243
+<sp Text 5> rect @373,169 240x152
+   • l| [15pt B #FFFFFF]Payer Rates
+   • l| [10.5pt #B7C4E8]Consolidate every center onto platform contracted rates
+<sp Text 5> rect @667,169 240x152
+   • l| [15pt B #FFFFFF]Referral Engine
+   • l| [10.5pt #B7C4E8]A formal sales organization that owns referral growth in each market
+<sp Text 5> rect @961,169 240x152
+   • l| [15pt B #FFFFFF]Patient [15pt B #FFFFFF]Access
+   • l| [10.5pt #B7C4E8]Centralized scheduling that converts demand into booked studies
+RELS: rId2->../notesSlides/notesSlide7.xml, rId1->../slideLayouts/slideLayout1.xml
+
+########## SLIDE 8 ##########
+<sp Text 0> rect @1069,36 144x29
+   • r| [15pt B #201243]RadX
+<sp Text 1> rect @67,36 979x48
+   • [27pt B #201243]Illustrative Example of EBITDA Growth Under RadX
+<sp Text 2> rect @67,88 1104x31
+   • [13pt #837D94]Fuller schedules and a centralized back office can materially increase a center's EBITDA
+<sp Shape 3> rect @67,127 1146x2 fill#201243
+<sp Shape 4> ellipse @67,196 19x19 fill#825B90 line#825B90
+<sp Text 5> rect @101,192 499x29
+   • [14pt B #201243]Do More With What You Already Have
+<sp Text 6> rect @101,221 509x77
+   • [11.5pt #3B3350]Most centers have room to run more volume on the equipment already in place. Better scheduling and steadier referral flow fill that gap without the need for additional capital
+<sp Shape 7> ellipse @67,423 19x19 fill#825B90 line#825B90
+<sp Text 8> rect @101,419 499x29
+   • [14pt B #201243]Centralize the Back Office
+<sp Text 9> rect @101,448 509x77
+   • [11.5pt #3B3350]Billing, credentialing, procurement and image reads move onto the RadX platform, which takes cost out of the center. Your clinical team and local relationships stay in place
+<sp Shape 10> roundRect @67,533 542x60 fill#F3F6FC line#D7D3DE
+<sp Text 11> rect @82,533 514x60
+   • [11.5pt B #201243]Same physicians, same equipment but a materially different earnings profile
+<sp Text 12> rect @643,193 576x29
+   • [13pt B #6585C7]Illustrative Single-Center EBITDA
+<sp Text 13> rect @643,221 576x24
+   • [10pt #837D94]Illustrative center, a few years into the RadX model
+<sp Shape 29> rect @634,538 538x1 fill#D7D3DE
+<sp Text 30> rect @67,633 1145x39
+   • [9pt #837D94]Note: Illustrative economics for a standard center in RadX's operating model. The $1.0M to $1.7M path assumes all three drivers shown at left are executed by Year 3. Actual results vary by center.
+<sp Text 31> rect @67,672 384x24
+   • [9pt #837D94]RadX inc.  ·  Confidential
+<sp Text 32> rect @442,672 691x24
+   • ctr| [9pt #B03A3A]Presentation Does Not Constitute a Binding Offer - Figures Subject to Confirmatory Due Diligence
+<sp Text 33> rect @1155,672 58x24
+   • r| [10pt B #201243]8
+<graphicFrame EBITDA Bridge Chart>  @628,244 543x293
+   CHART/TABLE rid=rId3
+<sp CatAtClose> rect @712,547 113x29
+   • ctr| [10.5pt #1F1142]At Close
+<sp CatYear3> rect @973,547 113x29
+   • ctr| [10.5pt #1F1142]Year 3
+<sp MixDot> ellipse @67,309 19x19 fill#825B90
+<sp MixHeader> rect @101,305 499x29
+   • [14pt B #201243]Shift the Mix and Reset the Rates
+<sp MixBody> rect @101,335 509x77
+   • [11.5pt #3B3350]Higher-value studies, led by MRI, take a larger share of the schedule. Contracted payer rates move onto platform terms, so the same study collects more than it does today
+<cxnSp Straight Arrow Connector 20> straightConnector1 @752,306 312x90 line#825B90
+<sp ArrowCallout> rect @753,322 301x29
+   • ctr| [12pt B #201243]Growth Opportunity With [12pt B #201243]RadX’s[12pt B #201243] Playbook
+RELS: rId3->../charts/chart2.xml, rId2->../notesSlides/notesSlide8.xml, rId1->../slideLayouts/slideLayout1.xml
+
+########## SLIDE 9 ##########
+<sp Shape 1> ellipse @912,-144 576x576 fill#312552
+<sp Text 3> rect @933,672 280x29
+   • r| [14pt B #FFFFFF]RadX[10pt B #B7C4E8] inc.
+<sp Text 4> rect @87,264 1040x83
+   • l| [40pt B #FFFFFF]Rolled Equity in the RadX Platform
+<sp Text 6> rect @87,417 624x3 fill#825B90
+<sp Text 16> rect @67,672 800x29
+   • l| [9pt #B7C4E8]Presentation Does Not Constitute a Binding Offer - Figures Subject to Confirmatory Due Diligence
+RELS: rId2->../notesSlides/notesSlide9.xml, rId1->../slideLayouts/slideLayout1.xml
+
+########## SLIDE 10 ##########
+<sp Text 0> rect @1069,36 144x29
+   • r| [15pt B #201243]RadX
+<sp Text 1> rect @67,36 979x48
+   • [27pt B #201243]Overview of Rolled Equity in the RadX Platform
+<sp Text 2> rect @67,88 1104x31
+   • [13pt #837D94]Rolled equity is valued at platform multiples, not single-practice multiples
+<sp Shape 3> rect @67,127 1146x2 fill#201243
+<sp Text 4> rect @67,161 1146x82
+   • [12.5pt B #201243]A single practice and a scaled platform are valued very differently. [12.5pt #3B3350]Rollover equity in the [12.5pt #3B3350]RadX[12.5pt #3B3350] platform enables the seller to benefit from the difference in valuation
+<sp Text 7> rect @155,546 226x58
+   • ctr| [10.5pt #1F1142][INSERT SELLER COMPANY NAME]
+<sp Text 13> rect @507,546 226x58
+   • ctr| [10.5pt #1F1142]Scaled Platform
+   • ctr| [10.5pt #1F1142]Valuation
+<sp Shape 14> rect @96,535 672x1 fill#D7D3DE
+<sp Text 15> rect @96,245 211x24
+   • [9.5pt #837D94]EV / EBITDA multiple
+<sp Shape 16> roundRect @826,259 387x268 fill#F3F6FC line#E3E0EA
+<sp Text 17> rect @854,278 326x31
+   • [14pt B #201243]Benefits of Participation in [14pt B #201243]RadX’s[14pt B #201243] Growth
+<sp Text 18> rect @859,333 325x162
+   • [11.5pt #3B3350]Meaningful cash at close, whatever you elect to roll
+   • [11.5pt #3B3350]Same security and priority as founder and institutional capital
+   • [11.5pt #3B3350]Upside from EBITDA growth and from the platform multiple at exit
+<sp Text 19> rect @67,633 1145x39
+   • [9pt #837D94]Note: Multiple ranges are illustrative and based on observed public and private comparables for scaled outpatient imaging platforms. No particular exit valuation is assured.
+<sp Text 20> rect @67,672 384x24
+   • [9pt #837D94]RadX inc.  ·  Confidential
+<sp Text 21> rect @442,672 691x24
+   • ctr| [9pt #B03A3A]Presentation Does Not Constitute a Binding Offer - Figures Subject to Confirmatory Due Diligence
+<sp Text 22> rect @1155,672 58x24
+   • r| [10pt B #201243]10
+<graphicFrame Valuation Chart>  @79,241 731x307
+   CHART/TABLE rid=rId3
+<cxnSp Straight Arrow Connector 10> straightConnector1 @266,241 338x146 line#825B90
+<sp ArrowCallout> rect @229,286 400x29
+   • ctr| [12pt B #201243]Rollover Equity Appreciation Opportunity
+RELS: rId3->../charts/chart3.xml, rId2->../notesSlides/notesSlide10.xml, rId1->../slideLayouts/slideLayout1.xml
+
+########## SLIDE 11 ##########
+<sp Text 0> rect @1069,36 144x29
+   • r| [15pt B #201243]RadX
+<sp Text 1> rect @67,36 979x48
+   • [27pt B #201243]Illustration of Total Consideration Over Platform’s Lifecycle
+<sp Text 2> rect @67,88 1104x31
+   • [13pt #837D94]Applying the platform multiple to your rolled equity, total consideration reaches $58M upon a liquidation event
+<sp Shape 3> rect @67,127 1146x2 fill#201243
+<sp Text 17> rect @67,633 1145x39
+   • [9pt #837D94]Note: Illustrative only. Total consideration of $58M assumes rolled equity grows to four times its value at close upon a platform liquidation event. Holdback / escrow released post-closing subject to customary indemnity and net working capital true-up.
+<sp Text 18> rect @67,672 384x24
+   • [9pt #837D94]RadX inc.  ·  Confidential
+<sp Text 19> rect @442,672 691x24
+   • ctr| [9pt #B03A3A]Presentation Does Not Constitute a Binding Offer - Figures Subject to Confirmatory Due Diligence
+<sp Text 20> rect @1155,672 58x24
+   • r| [10pt B #201243]11
+<graphicFrame Consideration Chart>  @136,217 1008x340
+   CHART/TABLE rid=rId3
+<sp Text 5> rect @175,445 175x58
+   • ctr| [11pt #1F1142]Cash at Close
+   • ctr| [11pt #1F1142]$30M
+<sp Text 7> rect @178,349 168x42
+   • ctr| [11pt #1F1142]Deferred Cash
+   • ctr| [11pt #1F1142]$8M
+<sp Text 8> rect @166,318 192x36
+   • ctr| [15pt B #1F1142]$38M
+<sp Text 9> rect @137,568 250x34
+   • ctr| [12pt #1F1142]Total 
+   • ctr| [12pt #1F1142]Cash
+<sp Text 11> rect @418,290 192x36
+   • ctr| [15pt B #1F1142]$5M
+<sp Text 12> rect @380,568 269x33
+   • ctr| [12pt #1F1142]Seller Rollover 
+   • ctr| [12pt #1F1142]Equity
+<sp Text 14> rect @922,198 192x36
+   • ctr| [15pt B #201243]$58M
+<sp Text 15> rect @884,568 269x34
+   • ctr| [12pt #1F1142]Total 
+   • ctr| [12pt #1F1142]Consideration
+<sp Shape 16> rect @160,556 960x1 fill#D7D3DE
+<sp Text 5> rect @427,357 175x58
+   • ctr| [11pt #1F1142]Paid to the Company in the form of the Rollover Equity at Close
+<sp UpsideValue> rect @670,206 192x36
+   • ctr| [15pt B #201243]$15M
+<sp UpsideCat> rect @632,568 269x34
+   • ctr| [12pt #1F1142]Seller’s Equity 
+   • ctr| [12pt #1F1142]Appreciation
+<sp Left Brace 7> leftBrace @374,71 26x390 line#825B90
+<sp Text 12> rect @226,212 321x37
+   • ctr| [14pt B #201243]Consideration At Close: $43M
+<sp Text 5> rect @679,326 175x58
+   • ctr| [11pt #1F1142]Appreciation in Seller’s equity stake in [11pt #1F1142]RadX[11pt #1F1142] at Exit (represents 4x return)
+<sp Rectangle 23> rect @924,152 187x458
+<sp Oval 25> ellipse @965,196 105x40
+<sp Left Brace 24> leftBrace @625,251 26x390 line#825B90
+<sp Text 12> rect @428,456 421x37
+   • ctr| [14pt B #201243]$5M Equity Rollover Grows To $20M At Exit
+RELS: rId3->../charts/chart4.xml, rId2->../notesSlides/notesSlide11.xml, rId1->../slideLayouts/slideLayout1.xml
+
+########## SLIDE 12 ##########
+<sp Shape 1> ellipse @912,-144 576x576 fill#312552
+<sp Text 3> rect @933,672 280x29
+   • r| [14pt B #FFFFFF]RadX[10pt B #B7C4E8] inc.
+<sp Text 4> rect @87,264 1040x83
+   • l| [40pt B #FFFFFF]Retained Equity in Center
+<sp Text 6> rect @87,417 624x3 fill#825B90
+<sp Text 16> rect @67,672 800x29
+   • l| [9pt #B7C4E8]Presentation Does Not Constitute a Binding Offer - Figures Subject to Confirmatory Due Diligence
+RELS: rId2->../notesSlides/notesSlide12.xml, rId1->../slideLayouts/slideLayout1.xml
+
+########## SLIDE 13 ##########
+<sp Text 0> rect @1069,36 144x29
+   • r| [15pt B #201243]RadX
+<sp Text 1> rect @67,36 979x48
+   • [27pt B #201243]Illustrative Example of Retained Equity in Your Center
+<sp Text 2> rect @67,88 1104x31
+   • [13pt #837D94]Retained ownership shares in the cash flow the operating playbook creates
+<sp Shape 3> rect @67,127 1146x2 fill#201243
+<sp Text 4> rect @67,161 1146x82
+   • [12.5pt B #201243]The same business, generating more cash. [12.5pt #3B3350]The RadX playbook lifts EBITDA at your center. Your ownership percentage stays the same, so the same slice is worth more.
+<sp Text 7> rect @155,204 226x20
+   • ctr| [14pt B #3B3350]Your Center Today
+<sp Text 13> rect @509,204 226x20
+   • ctr| [14pt B #3B3350]After RadX Improvements
+<sp Shape 16> roundRect @826,259 387x246 fill#F3F6FC line#E3E0EA
+<sp Text 17> rect @854,278 330x31
+   • [14pt B #201243]Benefits of Retaining Equity in Your Center 
+<sp Text 18> rect @859,345 325x141
+   • [11.5pt #3B3350]Meaningful cash consideration at close
+   • [11.5pt #3B3350]Continued ownership in your own business
+   • [11.5pt #3B3350]Distributions rise as site cash flow improves
+<sp Text 19> rect @67,633 1145x39
+   • [9pt #837D94]Note: Figures are illustrative. The $1.0M to $1.7M EBITDA path shown is the same single-center example presented earlier in this presentation. Retained ownership percentage and resulting cash flow shown for illustration only.
+<sp Text 20> rect @67,672 384x24
+   • [9pt #837D94]RadX inc.  ·  Confidential
+<sp Text 21> rect @442,672 691x24
+   • ctr| [9pt #B03A3A]Presentation Does Not Constitute a Binding Offer - Figures Subject to Confirmatory Due Diligence
+<sp Text 22> rect @1155,672 58x24
+   • r| [10pt B #201243]13
+<graphicFrame Pie Today>  @179,345 179x179
+   CHART/TABLE rid=rId3
+<graphicFrame Pie Improved>  @505,290 233x233
+   CHART/TABLE rid=rId4
+<sp PieTitleToday> rect @148,305 240x29
+   • ctr| [14pt B #201243]$1.0M EBITDA
+<sp PieCalloutToday> roundRect @141,536 253x73 fill#F3F6FC
+   • ctr| [24pt B #6585C7]$200K
+   • ctr| [11pt #3B3350]20% ownership of $1.0M EBITDA
+<sp PieTitleImproved> rect @501,250 240x29
+   • ctr| [14pt B #201243]$1.7M EBITDA
+<sp PieCalloutImproved> roundRect @495,536 253x73 fill#F3F6FC
+   • ctr| [24pt B #6585C7]$340K
+   • ctr| [11pt #3B3350]20% ownership of $1.7M EBITDA
+<sp PieTitleToday> rect @226,373 149x29
+   • ctr| [14pt B]20%
+<sp PieTitleToday> rect @592,327 149x29
+   • ctr| [14pt B]20%
+<sp CalloutAccent12> rect @141,536 253x4 fill#6585C7
+<sp CalloutAccent14> rect @495,536 253x4 fill#6585C7
+<sp PieCalloutImproved> roundRect @826,536 387x73 fill#F3F6FC
+   • ctr| [24pt B #6585C7]+$140K per year
+   • ctr| [11pt #3B3350]on the same 20% stake
+<sp CalloutAccent14> rect @826,536 387x4 fill#6585C7
+<sp Arrow: Right 28> rightArrow @423,387 44x79 fill#6585C7
+<sp CalloutAccent12> rect @141,225 253x4 fill#6585C7
+<sp CalloutAccent14> rect @495,225 253x4 fill#6585C7
+RELS: rId3->../charts/chart5.xml, rId2->../notesSlides/notesSlide13.xml, rId1->../slideLayouts/slideLayout1.xml, rId4->../charts/chart6.xml
+
+########## SLIDE 14 ##########
+<sp Text 0> rect @1069,36 144x29
+   • r| [15pt B #201243]RadX
+<sp Text 1> rect @67,36 979x48
+   • [27pt B #201243]Overview of Path to Close
+<sp Text 2> rect @67,88 1104x31
+   • [13pt #837D94]RadX is prepared to move from signed LOI to closing in approximately 90 days
+<sp Shape 3> rect @67,127 1146x2 fill#201243
+<sp Shape 4> rect @86,357 1107x3 fill#201243
+<sp Shape 5> ellipse @126,348 21x21 fill#825B90 line#FFFFFF
+<sp Text 6> rect @55,311 163x27
+   • ctr| [10.5pt B #201243]Today
+<sp Shape 7> roundRect @49,172 175x132 fill#F3F6FC line#D7D3DE
+<sp Text 8> rect @59,182 156x44
+   • ctr| [10.5pt B #201243]Indication of Interest
+<sp Text 9> rect @59,228 156x69
+   • ctr| [8.5pt #3B3350]Preliminary terms shared and mutual fit discussion
+<sp Shape 10> ellipse @327,348 21x21 fill#825B90 line#FFFFFF
+<sp Text 11> rect @256,378 163x27
+   • ctr| [10.5pt B #201243]Weeks 1 – 2
+<sp Shape 12> roundRect @250,413 175x132 fill#FFFFFF line#D7D3DE
+<sp Text 13> rect @260,423 156x44
+   • ctr| [10.5pt B #201243]Signed LOI & Exclusivity
+<sp Text 14> rect @260,468 156x69
+   • ctr| [8.5pt #3B3350]Economics and structure agreed; diligence period begins
+<sp Shape 15> ellipse @529,348 21x21 fill#825B90 line#FFFFFF
+<sp Text 16> rect @458,311 163x27
+   • ctr| [10.5pt B #201243]Weeks 3 – 7
+<sp Shape 17> roundRect @452,172 175x132 fill#F3F6FC line#D7D3DE
+<sp Text 18> rect @461,182 156x44
+   • ctr| [10.5pt B #201243]Confirmatory Diligence
+<sp Text 19> rect @461,228 156x69
+   • ctr| [8.5pt #3B3350]Quality of earnings, payer and billing review, equipment and lease diligence
+<sp Shape 20> ellipse @730,348 21x21 fill#825B90 line#FFFFFF
+<sp Text 21> rect @659,378 163x27
+   • ctr| [10.5pt B #201243]Weeks 6 – 10
+<sp Shape 22> roundRect @653,413 175x132 fill#FFFFFF line#D7D3DE
+<sp Text 23> rect @663,423 156x44
+   • ctr| [10.5pt B #201243]Definitive Documentation
+<sp Text 24> rect @663,468 156x69
+   • ctr| [8.5pt #3B3350]Purchase agreement, rollover documentation and employment terms negotiated in parallel
+<sp Shape 25> ellipse @932,348 21x21 fill#825B90 line#FFFFFF
+<sp Text 26> rect @861,311 163x27
+   • ctr| [10.5pt B #201243]~Week 12
+<sp Shape 27> roundRect @855,172 175x132 fill#F3F6FC line#D7D3DE
+<sp Text 28> rect @864,182 156x44
+   • ctr| [10.5pt B #201243]Closing
+<sp Text 29> rect @864,228 156x69
+   • ctr| [8.5pt #3B3350]Funding of cash consideration and issuance of any rollover equity
+<sp Shape 30> ellipse @1133,348 21x21 fill#825B90 line#FFFFFF
+<sp Text 31> rect @1062,378 163x27
+   • ctr| [10.5pt B #201243]Post-Close
+<sp Shape 32> roundRect @1056,413 175x132 fill#FFFFFF line#D7D3DE
+<sp Text 33> rect @1066,423 156x44
+   • ctr| [10.5pt B #201243]Integration & First 100 Days
+<sp Text 34> rect @1066,468 156x69
+   • ctr| [8.5pt #3B3350]Platform onboarding with local clinical staff and referral relationships preserved
+<sp Shape 35> roundRect @67,607 1146x46 fill#201243 line#201243
+<sp Text 36> rect @67,607 1146x46
+   • ctr| [11.5pt B #FFFFFF]RadX funds acquisitions from committed capital, so there is no financing contingency and no third-party approval required to close
+<sp Text 37> rect @67,672 384x24
+   • [9pt #837D94]RadX inc.  ·  Confidential
+<sp Text 38> rect @442,672 691x24
+   • ctr| [9pt #B03A3A]Presentation Does Not Constitute a Binding Offer - Figures Subject to Confirmatory Due Diligence
+<sp Text 39> rect @1155,672 58x24
+   • r| [10pt B #201243]14
+RELS: rId2->../notesSlides/notesSlide14.xml, rId1->../slideLayouts/slideLayout1.xml
+
+########## SLIDE 15 ##########
+<sp Text 0> rect @1069,36 144x29
+   • r| [15pt B #201243]RadX
+<sp Text 1> rect @67,36 979x48
+   • [27pt B #201243]Overview of the RadX Team
+<sp Text 2> rect @67,88 1104x31
+   • [13pt #837D94]An experienced corporate team supporting every center on the platform
+<sp Shape 3> rect @67,127 1146x2 fill#201243
+<sp Shape 4> roundRect @67,163 268x374 fill#FFFFFF line#D7D3DE
+<sp Text 7> rect @82,305 240x53
+   • ctr| [13pt B #201243]Dr. Chintan Desai, MD
+<sp Text 8> rect @82,357 240x48
+   • ctr| [10.5pt #825B90]Founder & Chief Executive Officer
+<sp Shape 9> rect @168,411 67x1 fill#D7D3DE
+<sp Text 10> rect @84,427 234x96
+   • ctr| [9.5pt #3B3350]President, Florida Radiological Society
+   • ctr| [9.5pt #3B3350]CMO, Rose Radiology Center
+   • ctr| [9.5pt #3B3350]MBA, Harvard Business School
+<sp Shape 11> roundRect @360,163 268x374 fill#FFFFFF line#D7D3DE
+<sp Text 14> rect @374,305 240x53
+   • ctr| [13pt B #201243]Alejandro Mursuli
+<sp Text 15> rect @374,357 240x48
+   • ctr| [10.5pt #825B90]Chief Financial Officer
+<sp Shape 16> rect @460,411 67x1 fill#D7D3DE
+<sp Text 17> rect @377,427 234x96
+   • ctr| [9.5pt #3B3350]VP Finance, Innovacare Health
+   • ctr| [9.5pt #3B3350]Director of Finance, MMM of Florida
+   • ctr| [9.5pt #3B3350]MBA, Nova Southeastern University
+<sp Shape 18> roundRect @652,163 268x374 fill#FFFFFF line#D7D3DE
+<sp Text 21> rect @666,305 240x53
+   • ctr| [13pt B #201243]Ailenis San Martin
+<sp Text 22> rect @666,357 240x48
+   • ctr| [10.5pt #825B90]VP of Operations
+<sp Shape 23> rect @753,411 67x1 fill#D7D3DE
+<sp Text 24> rect @669,427 234x96
+   • ctr| [9.5pt #3B3350]VP Market Operations, InnovaCare Health
+   • ctr| [9.5pt #3B3350]Practice Admin, Urban Health Physicians
+   • ctr| [9.5pt #3B3350]MBA, Keiser University
+<sp Shape 25> roundRect @944,163 268x374 fill#FFFFFF line#D7D3DE
+<sp Text 28> rect @959,305 240x53
+   • ctr| [13pt B #201243]Brent Garnes
+<sp Text 29> rect @959,357 240x48
+   • ctr| [10.5pt #825B90]VP of Business Development
+<sp Shape 30> rect @1045,411 67x1 fill#D7D3DE
+<sp Text 31> rect @962,427 234x96
+   • ctr| [9.5pt #3B3350]FL Regional Marketing Director, CareFirst
+   • ctr| [9.5pt #3B3350]Regional Marketing Director, Gateway
+   • ctr| [9.5pt #3B3350]Clayton State University
+<sp Shape 32> roundRect @67,562 1146x60 fill#F3F6FC line#E3E0EA
+<sp Text 33> rect @86,562 1107x60
+   • ctr| [11.5pt #201243]The corporate team absorbs billing, credentialing, scheduling infrastructure and payer management, so the practice can focus on clinical delivery and referral relationships
+<sp Text 34> rect @67,672 384x24
+   • [9pt #837D94]RadX inc.  ·  Confidential
+<sp Text 35> rect @442,672 691x24
+   • ctr| [9pt #B03A3A]Presentation Does Not Constitute a Binding Offer - Figures Subject to Confirmatory Due Diligence
+<sp Text 36> rect @1155,672 58x24
+   • r| [10pt B #201243]15
+<pic Picture 39> ellipse @446,194 96x96
+<pic Picture 41> ellipse @738,194 96x96
+<pic Picture 43> ellipse @1031,194 96x96
+<pic Picture 45> ellipse @153,194 96x96
+RELS: rId3->../media/image2.jpeg, rId2->../notesSlides/notesSlide15.xml, rId1->../slideLayouts/slideLayout1.xml, rId6->../media/image1.jpeg, rId5->../media/image4.png, rId4->../media/image3.jpeg
+
+########## SLIDE 16 ##########
+<sp Shape 0> ellipse @922,154 442x442 fill#2A1A4E line#2A1A4E
+<sp Shape 1> ellipse @1003,235 278x278 fill#201243 line#201243
+<sp Text 2> rect @67,53 288x38
+   • [22pt B #FFFFFF]RadX[13pt #B9AFD0] inc.
+<sp Text 3> rect @67,149 768x67
+   • [34pt B #FFFFFF]Next Steps
+<sp Shape 4> rect @67,226 154x3 fill#825B90
+<sp Shape 5> ellipse @67,276 38x38 fill#312552 line#825B90
+<sp Text 6> rect @67,282 38x27
+   • ctr| [12pt B #FFFFFF]1
+<sp Text 7> rect @130,274 730x58
+   • [12.5pt #E3DEEE]Review the accompanying Letter of Intent (“LOI”)
+<sp Shape 8> ellipse @67,345 38x38 fill#312552 line#825B90
+<sp Text 9> rect @67,351 38x27
+   • ctr| [12pt B #FFFFFF]2
+<sp Text 10> rect @130,343 730x58
+   • [12.5pt #E3DEEE]Connect with the RadX team to discuss any outstanding LOI points
+<sp Shape 11> ellipse @67,414 38x38 fill#312552 line#825B90
+<sp Text 12> rect @67,420 38x27
+   • ctr| [12pt B #FFFFFF]3
+<sp Text 13> rect @130,412 730x58
+   • [12.5pt #E3DEEE]Execute the LOI and begin confirmatory diligence
+<sp Shape 14> ellipse @67,483 38x38 fill#312552 line#825B90
+<sp Text 15> rect @67,490 38x27
+   • ctr| [12pt B #FFFFFF]4
+<sp Text 16> rect @130,481 730x58
+   • [12.5pt #E3DEEE]Introduce you to the operating team and, if helpful, to physicians who have already sold to RadX
+<sp Shape 17> rect @67,581 768x1 fill#4E4270
+<sp Text 18> rect @67,593 768x29
+   • [11.5pt B #FFFFFF]Dr. Chintan Desai, MD  ·  Founder & Chief Executive Officer  ·  RadX, Inc.
+<sp Text 19> rect @67,622 826x29
+   • [10pt #9C8FB8]drdesai@radxinc.com  ·  (XXX) XXX-XXXX  ·  20+ centers across Florida, Georgia, Tennessee, Alabama, Michigan and Maryland
+<sp Text 20> rect @67,660 826x29
+   • [8pt #C9707A]Presentation Does Not Constitute a Binding Offer - Figures Subject to Confirmatory Due Diligence
+RELS: rId2->../notesSlides/notesSlide16.xml, rId1->../slideLayouts/slideLayout1.xml
